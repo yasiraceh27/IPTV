@@ -85,3 +85,6 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/434491.m3u8
 http://xtv.ooo:8080/live/8899/8899/351023.m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RCTI2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  skygp
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1883&extension=m3u8
