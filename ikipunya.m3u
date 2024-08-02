@@ -51,3 +51,37 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585230&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585231&extension=m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote6
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585232&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585406&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585407&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585408&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta4
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/270531.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta5
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/270529.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta6
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/270527.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cyta7
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/270525.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznDE1
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1131.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznDE2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1132.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznES1
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/847.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznES2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/848.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznIT1
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1663.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznIT2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1664.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  daznITzona
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/434491.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RCTI
+http://xtv.ooo:8080/live/8899/8899/351023.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RCTI2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
