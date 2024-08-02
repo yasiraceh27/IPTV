@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  arenasportHR1
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5479&extension=m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  arenasportHR1
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  arenaFight
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=536128&extension=m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  arenasportHR2
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=5475&extension=m3u8
@@ -31,6 +31,23 @@ http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=208160&ext
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=208161&extension=m3u8
 #EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  artsport3
 http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=208162&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  RCTI
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  canal+PL1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520178&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  canal+PL2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520182&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  canal+PL3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520183&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  canal+PL4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=520184&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote1
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585227&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote2
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585228&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote3
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585229&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote4
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585230&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote5
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585231&extension=m3u8
+#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV NASIONAL" ,  cosmote6
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&stream=585232&extension=m3u8
