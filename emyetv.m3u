@@ -174,6 +174,18 @@ https://7pal.short.gy/skyspt7nz
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="eMYeSport", Sky Sport Premier League FHD
 https://7pal.short.gy/skyspt8nz
 
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name=" TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYeSport", TNT SPORTS 1 ᶠᴴᴰ
+https://livebox.pro:443/live/565trail724/6655447788/186627.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYeSport",TNT SPORT 2
+https://livebox.pro:443/live/565trail724/6655447788/285.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name=" TNT SPORTS 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYeSport", TNT SPORTS 3 ᶠᴴᴰ
+https://livebox.pro:443/live/565trail724/6655447788/148090.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYeSport",TNT SPORT 4 FHD
+https://livebox.pro:443/live/565trail724/6655447788/255259.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYeSport",TNT SPORT 5 HD
+https://livebox.pro:443/live/565trail724/6655447788/186631.ts
+
+
 #EXTINF:-1 group-title="eMYeSport" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" tvg-id="TNTSports1.uk" ,TNT SPORTS 1
 http://ktv.im:8080/873747737/637763736/1159
 
