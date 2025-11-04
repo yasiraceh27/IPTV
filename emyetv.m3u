@@ -1,637 +1,120 @@
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,TVRI BARUUU
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/BARUUU/hls/BARUUU.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,TVRI Sport
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  TVRI WORLD
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  TVRI ACEH
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" , TVONE HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" , Metro TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" , Kompas Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  Cnbc Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  NUSANTARA TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  MOJI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="TV BARUUU", INDOSIAR HD
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/sctv.webp" group-title="TV BARUUU", SCTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-##https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/tran7.png"  group-title="TV BARUUU",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/transtv.png"  group-title="TV BARUUU",TransTV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,  NET-TV MD-TV
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
-
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="TV BARUUU",ANTV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/rtv.png"  group-title="TV BARUUU",RTV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/magna.png"  group-title="TV BARUUU",Magna Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="TV BARUUU" ,   MQTV
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-
-==INDIHOME EMYE=====================================================================================================================================================================================================
-
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png" group-title="IndihomEmyE" ,tvOne HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://shorturl.at/MjtCq" group-title="IndihomEmyE" ,  INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="IndihomEmyE",SCTV (INDI)
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-title="IndihomEmyE",Trans TV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="IndihomEmyE",Trans7 (INDI)
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/BARUUU/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="IndihomEmyE",MOJI TV (IndiHome)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png" group-title="IndihomEmyE",MTA TV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
-
-#EXTINF:-1 tvg-id="kplus.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kplus.png" group-title="IndihomEmyE",K+ HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
-
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://alkhalifitv.github.io/TV/big/mentaritv.png" group-title="IndihomEmyE",Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/warnertv.png" group-title="IndihomEmyE",Warner TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.16 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
-
-==EMYE AFC PLUS LIGA 1==============================================================================================================================================================
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/indosiar.png" group-title="EMYE AFC PLUS LIGA 1",BRI LIGA 1c
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-
-==EMYE Sport=================================================================================================================================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 1 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU1_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 1 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 1 
 https://livebox.pro:443/live/565trail724/6655447788/274122.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 2 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU2_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 2 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 2 
 https://livebox.pro:443/live/565trail724/6655447788/274123.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 3 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU3_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 3 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 3 
 https://livebox.pro:443/live/565trail724/6655447788/274124.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 4 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU4_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 4 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 4 
 https://livebox.pro:443/live/565trail724/6655447788/274125.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 5 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU5_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 5 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 5 
 https://livebox.pro:443/live/565trail724/6655447788/274126.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 6 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU6_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 6 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 6 
 https://livebox.pro:443/live/565trail724/6655447788/274127.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN BARUUU 7 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_BARUUU7_DIGITAL_Mono.png" group-title="eMYeSport",beIN BARUUU 7 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="eMYe Sports",beIN SPORTS 7 
 https://livebox.pro:443/live/565trail724/6655447788/274128.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="eMYeSport",beIN BARUUU 8 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8Z44jEX.png" group-title="eMYe Sports",beIN SPORTS 8 
 https://livebox.pro:443/live/565trail724/6655447788/274129.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="eMYeSport",beIN BARUUU 9 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="eMYe Sports",beIN SPORTS 9 
 https://livebox.pro:443/live/565trail724/6655447788/274130.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_BARUUU_XTRA1_Digital_Mono.png" group-title="eMYeSport",beIN Sport EXTRA 1 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 1 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="eMYe Sports",beIN Sport EXTRA 1 
 https://livebox.pro:443/live/565trail724/6655447788/274131.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_BARUUU_XTRA2_Digital_Mono.png" group-title="eMYeSport",beIN Sport EXTRA 2 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="eMYe Sports",beIN Sport EXTRA 2 
 https://livebox.pro:443/live/565trail724/6655447788/274132.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_BARUUU_XTRA2_Digital_Mono.png" group-title="eMYeSport",beIN Sport EXTRA 3
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport EXTRA 2 4K" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="eMYe Sports",beIN Sport EXTRA 3
 https://livebox.pro:443/live/565trail724/6655447788/274133.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINBARUUU 1 EN " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_BARUUU1_ENGLISH_Digital_Mono.png" group-title="eMYeSport",,BEINBARUUU 1 EN 
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 1 EN " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="eMYe Sports",,BEINSPORTS 1 EN 
 https://livebox.pro:443/live/565trail724/6655447788/138713.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINBARUUU 2 EN " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_BARUUU2_ENGLISH_Digital_Mono.png" group-title="eMYeSport",,BEINBARUUU 2 EN 
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 2 EN " tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="eMYe Sports",,BEINSPORTS 2 EN 
 https://livebox.pro:443/live/565trail724/6655447788/274140.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.BARUUUtribal.tv/home/wp-content/uploads/2021/07/billiard-logo-sml.png" group-title="eMYeSport",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaiBARUUU2.png",Dubai Sport 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaiBARUUUhd/smil:dubaiBARUUUhd.smil/chunklist_b1600000.m3u8
- #EXTINF:-1 group-title="eMYeSport" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaiBARUUU3.png",Dubai SPORT 3 
-https://dmitwlvvll.cdn.mangomolo.com/dubaiBARUUUhd5/smil:dubaiBARUUUhd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="eMYeSport", Fox BARUUU 501
-https://7pal.short.gy/fox501au
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="eMYeSport", Fox BARUUU 502
-https://7pal.short.gy/fox502au
-#EXTINF:-1 tvg-id="FoxBARUUU503.au" tvg-logo="https://i.imgur.com/fndl6gs.png" group-title="eMYeSport", Fox BARUUU 503
-https://7pal.short.gy/fox503au
-#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/0tZxstM.png" group-title="eMYeSport", Fox BARUUU 504
-https://7pal.short.gy/fox504au
-#EXTINF:-1 tvg-id="FoxBARUUU505.au" tvg-logo="https://i.imgur.com/pnrLdcb.png" group-title="eMYeSport", Fox BARUUU 505
-https://7pal.short.gy/fox505au
-#EXTINF:-1 tvg-id="FoxBARUUUMore.au" tvg-logo="https://i.imgur.com/PeDP6zC.png" group-title="eMYeSport", Fox BARUUU 507
-https://7pal.short.gy/fox507au
-
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg" group-title="eMYeSport",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rm.png" group-title="eMYeSport",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="eMYeSport", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="eMYeSport", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="eMYeSport", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="eMYeSport", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="eMYeSport", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="eMYeSport", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="eMYeSport", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="eMYeSport", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
-
-
-
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name=" SUPERSPORT CRICKET " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="eMYeSport", SUPERSPORT CRICKET 
-https://livebox.pro:443/live/565trail724/6655447788/157939.ts
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name=" SUPERBARUUU PREMIER LEAGUE " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="eMYeSport", SUPERBARUUU PREMIER LEAGUE 
-https://livebox.pro:443/live/565trail724/6655447788/157940.ts
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name=" SUPERBARUUU LALIGA " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="eMYeSport", SUPERBARUUU LALIGA 
-https://livebox.pro:443/live/565trail724/6655447788/157941.ts
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name=" SUPERBARUUU FOOTBALL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="eMYeSport", SUPERBARUUU FOOTBALL 
-https://livebox.pro:443/live/565trail724/6655447788/157942.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SUPERBARUUU FOOTBALL PLUS " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="eMYeSport", SUPERBARUUU FOOTBALL PLUS 
-https://livebox.pro:443/live/565trail724/6655447788/157943.ts
-#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name=" SUPERBARUUU PSL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="eMYeSport", SUPERBARUUU PSL 
-https://livebox.pro:443/live/565trail724/6655447788/157944.ts
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name=" SuperSport Rugby " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="eMYeSport", SuperSport Rugby 
-https://livebox.pro:443/live/565trail724/6655447788/157945.ts
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name=" SuperSport Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="eMYeSport", SuperSport Golf 
-https://livebox.pro:443/live/565trail724/6655447788/157946.ts
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name=" SUPER MOTORSPORT " tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="eMYeSport", SUPER MOTORSPORT 
-https://livebox.pro:443/live/565trail724/6655447788/157947.ts
-#EXTINF:-1 tvg-id="supersportaction.za" tvg-name=" SuperSport Action " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="eMYeSport", SuperSport Action 
-https://livebox.pro:443/live/565trail724/6655447788/157948.ts
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name=" SuperSport Tennis " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="eMYeSport", SuperSport Tennis 
-https://livebox.pro:443/live/565trail724/6655447788/157949.ts
-#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPER SPORT LIYU " tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television-thumbnail.png" group-title="eMYeSport",DSTV: SUPER SPORT LIYU 
-https://livebox.pro:443/live/565trail724/6655447788/157950.ts
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name=" SUPERBARUUU VARIETY 1  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="eMYeSport", SUPERBARUUU VARIETY 1  
-https://livebox.pro:443/live/565trail724/6655447788/157951.ts
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name=" SUPERBARUUU VARIETY 2 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="eMYeSport", SUPERBARUUU VARIETY 2 
-https://livebox.pro:443/live/565trail724/6655447788/157952.ts
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name=" SUPERBARUUU VARIETY 3  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="eMYeSport", SUPERBARUUU VARIETY 3  
-https://livebox.pro:443/live/565trail724/6655447788/157953.ts
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name=" SUPERBARUUU VARIETY 4 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="eMYeSport", SUPERBARUUU VARIETY 4 
-https://livebox.pro:443/live/565trail724/6655447788/157954.ts
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name=" Supersport blitz " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="eMYeSport", Supersport blitz 
-https://livebox.pro:443/live/565trail724/6655447788/157955.ts
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV: Maximo 1 Champions " tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="eMYeSport",DSTV: Maximo 1 Champions 
-https://livebox.pro:443/live/565trail724/6655447788/157956.ts
-#EXTINF:-1 tvg-id="espn.za" tvg-name="DSTV: ESPN " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="eMYeSport",DSTV: ESPN 
-https://livebox.pro:443/live/565trail724/6655447788/157959.ts
-#EXTINF:-1 tvg-id="espn2.za" tvg-name="DSTV: ESPN 2 " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="eMYeSport",DSTV: ESPN 2 
-https://livebox.pro:443/live/565trail724/6655447788/157960.ts
-
-
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name=" SONY BARUUU 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="eMYeSport", SONY BARUUU 1 ᴴᴰ
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name=" SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="eMYe Sports", SONY SPORTS 1 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/154.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY Ten 2 HD" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="eMYeSport",SONY Ten 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY Ten 2 HD" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="eMYe Sports",SONY Ten 2 HD
 https://livebox.pro:443/live/565trail724/6655447788/192.ts
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name=" SONY BARUUU 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="eMYeSport", SONY BARUUU 2 ᴴᴰ
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name=" SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="eMYe Sports", SONY SPORTS 2 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/31314.ts
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name=" SONY BARUUU 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="eMYeSport", SONY BARUUU 3 ᴴᴰ
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name=" SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="eMYe Sports", SONY SPORTS 3 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/146.ts
-#EXTINF:-1 tvg-id="" tvg-name=" SONY BARUUU 4 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten4.png" group-title="eMYeSport", SONY BARUUU 4 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" SONY SPORTS 4 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten4.png" group-title="eMYe Sports", SONY SPORTS 4 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/29469.ts
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name=" SONY BARUUU 5 ᴴᴰ" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="eMYeSport", SONY BARUUU 5 ᴴᴰ
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name=" SONY SPORTS 5 ᴴᴰ" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="eMYe Sports", SONY SPORTS 5 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/176.ts
 
-#EXTINF:-1 tvg-id="starBARUUUselect1hd.in" tvg-name=" STAR BARUUU SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarBARUUUSelect1.in.png" group-title="eMYeSport", STAR BARUUU SELECT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name=" STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="eMYe Sports", STAR SPORTS SELECT 1 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/238.ts
-#EXTINF:-1 tvg-id="starBARUUUselecthd2.in" tvg-name=" STAR BARUUU SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarBARUUUSelect2.in.png" group-title="eMYeSport", STAR BARUUU SELECT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name=" STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="eMYe Sports", STAR SPORTS SELECT 2 ᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/148801.ts
 
-#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 1 ᶠᴴᴰ" tvg-logo="https://i.top4top.io/p_2473omzjs1.png" group-title="eMYeSport", STARZPLAY CRICLIFE 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 1 ᶠᴴᴰ" tvg-logo="https://i.top4top.io/p_2473omzjs1.png" group-title="eMYe Sports", STARZPLAY CRICLIFE 1 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/122979.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 2 ᶠᴴᴰ" tvg-logo="https://i.top4top.io/p_2473omzjs1.png" group-title="eMYeSport", STARZPLAY CRICLIFE 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 2 ᶠᴴᴰ" tvg-logo="https://i.top4top.io/p_2473omzjs1.png" group-title="eMYe Sports", STARZPLAY CRICLIFE 2 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/122980.ts
-#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 3 ᶠᴴᴰ" tvg-logo="https://e.top4top.io/p_24734bapv1.png" group-title="eMYeSport", STARZPLAY CRICLIFE 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name=" STARZPLAY CRICLIFE 3 ᶠᴴᴰ" tvg-logo="https://e.top4top.io/p_24734bapv1.png" group-title="eMYe Sports", STARZPLAY CRICLIFE 3 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/158897.ts
 
-
-#EXTINF:-1 tvg-id="221" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-BARUUU/hub-premier/hub1.png" group-title="eMYeSport",Hub Premier  EPL 01
-https://livebox.pro:443/live/565trail724/6655447788/148158.ts
-#EXTINF:-1 tvg-id="222" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-BARUUU/hub-premier/hub2.png" group-title="eMYeSport",Hub Premier  EPL 02
-https://livebox.pro:443/live/565trail724/6655447788/148159.ts
-#EXTINF:-1 tvg-id="223" tvg-name="Hub Premier  EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-BARUUU/hub-premier/hub3.png" group-title="eMYeSport",Hub Premier  EPL 03
-https://livebox.pro:443/live/565trail724/6655447788/148160.ts
-#EXTINF:-1 tvg-id="224" tvg-name="Hub Premier  EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-BARUUU/hub-premier/hub4.png" group-title="eMYeSport",Hub Premier  EPL 04
-https://livebox.pro:443/live/565trail724/6655447788/148161.ts
-#EXTINF:-1 tvg-id="224" tvg-name="Hub Premier  EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-BARUUU/hub-premier/hub5.png" group-title="eMYeSport",Hub Premier  EPL 04
-https://livebox.pro:443/live/565trail724/6655447788/148162.ts
-
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name=" TNT BARUUU 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntBARUUU.png" group-title="eMYeSport", TNT BARUUU 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name=" TNT SPORTS 1 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYe Sports", TNT SPORTS 1 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/186627.ts
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2" tvg-logo="http://greenpa1.com/tntBARUUU.png" group-title="eMYeSport",TNT SPORT 2
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="TNT SPORT 2" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYe Sports",TNT SPORT 2
 https://livebox.pro:443/live/565trail724/6655447788/285.ts
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name=" TNT BARUUU 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntBARUUU.png" group-title="eMYeSport", TNT BARUUU 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name=" TNT SPORTS 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYe Sports", TNT SPORTS 3 ᶠᴴᴰ
 https://livebox.pro:443/live/565trail724/6655447788/148090.ts
-#EXTINF:-1 tvg-id="tntBARUUU4.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="http://greenpa1.com/tntBARUUU.png" group-title="eMYeSport",TNT SPORT 4 FHD
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="TNT SPORT 4 FHD" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYe Sports",TNT SPORT 4 FHD
 https://livebox.pro:443/live/565trail724/6655447788/255259.ts
-#EXTINF:-1 tvg-id="92BARUUU.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="http://greenpa1.com/tntBARUUU.png" group-title="eMYeSport",TNT SPORT 5 HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="TNT SPORT 5 HD" tvg-logo="http://greenpa1.com/tntsports.png" group-title="eMYe Sports",TNT SPORT 5 HD
 https://livebox.pro:443/live/565trail724/6655447788/186631.ts
 
+#EXTINF:-1 tvg-id="221" tvg-name="Hub Premier  EPL 01" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub1.png" group-title="eMYe Sports",Hub Premier  EPL 01
+https://livebox.pro:443/live/565trail724/6655447788/148158.ts
+#EXTINF:-1 tvg-id="222" tvg-name="Hub Premier  EPL 02" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub2.png" group-title="eMYe Sports",Hub Premier  EPL 02
+https://livebox.pro:443/live/565trail724/6655447788/148159.ts
+#EXTINF:-1 tvg-id="223" tvg-name="Hub Premier  EPL 03" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub3.png" group-title="eMYe Sports",Hub Premier  EPL 03
+https://livebox.pro:443/live/565trail724/6655447788/148160.ts
+#EXTINF:-1 tvg-id="224" tvg-name="Hub Premier  EPL 04" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub4.png" group-title="eMYe Sports",Hub Premier  EPL 04
+https://livebox.pro:443/live/565trail724/6655447788/148161.ts
+#EXTINF:-1 tvg-id="224" tvg-name="Hub Premier  EPL 05" tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/hub-premier/hub5.png" group-title="eMYe Sports",Hub Premier  EPL 04
+https://livebox.pro:443/live/565trail724/6655447788/148162.ts
 
-#EXTINF:-1 group-title="eMYeSport" tvg-logo="http://ktv.im:8080/images/17e23e50bedc63b4095e3d8204ce063b.png" tvg-id="TNTBARUUU1.uk" ,TNT BARUUU 1
-http://ktv.im:8080/873747737/637763736/1159
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/refs/heads/main/sport/Unifi_BARUUU.png" group-title="eMYeSport" , unifi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffc555c120261e93a09cedcc9ccb541c:28acbfe596ae377c78330c7e0034817f
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-====MOTOGP-F1==================================================================================================================================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://lo1.in/it/mtgp.png" group-title="MOTOGP-F1",ESPN LIVE
-http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV
-http://iptvtree.net:8080/F25093/29838750/165105
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/xS2fqz2s/shareext-logo-Liga-Club.jpg" group-title="MOTOGP-F1",SpoTV 2
-http://iptvtree.net:8080/F25093/29838750/298506
-
-#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 1 (FHD)
-https://7pal.short.gy/tntspts1
-
-#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 2 (FHD)
-https://7pal.short.gy/tntspts2
-
-#EXTINF:-1 group-title="MOTOGP-F1"  tvg-logo="https://shorturl.at/MjtCq",TNT Sport 3 (FHD)
-https://7pal.short.gy/tntspts3
-
-====LAIN2=====================================================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/BARUUU/aniplus.jpeg" group-title="LAIN2",Aniplus
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
-
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mykidz.png" group-title="LAIN2",My Kidz
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-logo="https://i.imgur.com/4B5FvmX.png" group-title="LAIN2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/palestinehd/index.m3u8
-
-#EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png" group-title="LAIN2",Al-Jazeera English
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-id="aljazeera.qa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png" group-title="LAIN2",Al-Jazeera Arab
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.pngkey.com/png/full/306-3060351_k-plus-k-plus-channel-logo.png" group-title="LAIN2",k+
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-id="mychinemaasia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mca.png" group-title="LAIN2",My Cinema Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
-
-#EXTINF:-1 tvg-id="mnc: Thrill.hk" tvg-name="mnc: Thrill" tvg-logo="https://alkhalifitv.github.io/TV/big/thrill.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/film.png" group-title="LAIN2",Thrill
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-id="mnc: RockExtreme.sg" tvg-name="mnc: Rock Action" tvg-logo="https://alkhalifitv.github.io/TV/big/rock_action.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/film.png" group-title="LAIN2",Rock Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
-
-#EXTINF:-1 tvg-id="mnc: ROCKBARUUU.sg" tvg-name="mnc: ROCK BARUUU" tvg-logo="https://alkhalifitv.github.io/TV/big/rock_ent.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/hiburan.png" group-title="LAIN2",Rock BARUUU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
-
-#EXTINF:-1 channel-id="ESBC2700008SK-es" tvg-id="ESBC2700008SK" tvg-chno="4166" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png" group-title="LAIN2", Just For Laughs
-https://jmp2.uk/sam-ESBC2700008SK.m3u8
-
-
-====BARUUU==================================================================================================================================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXosb8B2_69Lk2qeG1zvgAAp_i0FG1adMppN_JI7zZcNw.png" group-title="BARUUU",ABC Australia
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/144
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXjw2pzEGSfokwQBXZ6ND-lR1rJibnTiRILmDmzwqgLwA.png" group-title="BARUUU",Al Jazeera
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/145
-#EXTINF:-1 tvg-id="" tvg-name="Anhui TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUrySInGRyv__-550DYRAXc.png" group-title="BARUUU",Anhui TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/41
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWJdDsN50ZwnP_LWoTttLvoxSv4mZPFLv2FPhwIkB5Cfw.png" group-title="BARUUU",Animal Planet
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/162
-#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXQngm-6iWiP2CHTEHTBHLH.png" group-title="BARUUU",Animax
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/169
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXTq3VjFHdhmiY9JXei0XIw.png" group-title="BARUUU",Aniplus
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/170
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUTdtCVdphG_Ap_2WDQXAI4.png" group-title="BARUUU",ANTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/1
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUEe-jh12IZVNlT7B1aXjIs.png" group-title="BARUUU",Arirang
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/124
-#EXTINF:-1 tvg-id="" tvg-name="Asia Food Network" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVxMOEvjTgAw3QQcCV1AshEdIPgvWwm6LH-j-z3wxR1dw.png" group-title="BARUUU",Asia Food Network
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/125
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeULf5zgSBM5MikQf2NAw6uc.png" group-title="BARUUU",AXN
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/42
-#EXTINF:-1 tvg-id="" tvg-name="BBC World BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX1vCCClf7K3dvZBPwkbyLWVpIIUXAlGLjwkadnFJ-WuA.png" group-title="BARUUU",BBC World BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/146
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXiSMZI73jygK31q0uNk2KXIfYneWt7yhub1Zgn3rlsHA.png" group-title="BARUUU",Bloomberg
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/147
-#EXTINF:-1 tvg-id="" tvg-name="BN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXBmkdQdSVQEkfZDi8jFx8cW_G95yZKboy4KDRbv9diJw.png" group-title="BARUUU",BN Channel
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/2
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXgBrn2EADs862K6G_HpFhO.png" group-title="BARUUU",BTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/3
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVemSPCD_RF4jKGPuRqJnpuVt5f6xrH9HoOgt-Yg0E6cQ.png" group-title="BARUUU",Cartoon Network
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/174
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUtK6yuqfbzpI9fux1rpFJPPxWZbdmw-E0jGyJscScopA.png" group-title="BARUUU",Cartoonito
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/173
-#EXTINF:-1 tvg-id="" tvg-name="Celestial BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVrrCxs17QHSirzreQbwuzfdJsoX_3JgVUnqYj46PQr_g.png" group-title="BARUUU",Celestial BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/43
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUSvJUiFr97Z5M6_It6Nxoi.png" group-title="BARUUU",CGTN
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/148
-#EXTINF:-1 tvg-id="" tvg-name="Channel BARUUU Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV2fTsWbTsZ0_kj8-AE6J8dxgr3KVRx2yEO3LfIOgwQQg.png" group-title="BARUUU",Channel BARUUU Asia
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/149
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVgvkohoofYynBAOe-jJ4gWPxUMIlsjkB_p1Og43_UaZw.png" group-title="BARUUU",Cinema World
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/47
-#EXTINF:-1 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVTTD7UhdE4kVaxeQayJPjf4IsmKdI7ajbnherK-cKh1Q.png" group-title="BARUUU",Citra Bioskop
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/49
-#EXTINF:-1 tvg-id="" tvg-name="Citra Dangdut" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWv06426C3wK_aHDIUcbq7K_3BW8n5uRKs6Aes4OpoR4A.png" group-title="BARUUU",Citra Dangdut
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/126
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUgykf6mnbYgMPXgqKsIhnaEAKPbZGFDwt5RfSYTHwuMg.png" group-title="BARUUU",Citra Drama
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/127
-#EXTINF:-1 tvg-id="" tvg-name="Citra BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXXvNY_pdp47tKd_ubdXNsRI4QYV2yi7rzH4DXa5ENvYg.png" group-title="BARUUU",Citra BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/128
-#EXTINF:-1 tvg-id="" tvg-name="Citra Muslim" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX7tdB-yTiKtKYVLGGIMC9OHyh35JlSAVDH9X236ZR-Qw.png" group-title="BARUUU",Citra Muslim
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/129
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUz42JIAnARoDTS-wNXiOu6TEihW1mwVGQeYNjRfdVbNQ.png" group-title="BARUUU",CNBC Indonesia
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/4
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXovchXVYo3xh4JNII73_52BpO8Jo68R1RxwXzUt4Hp6A.png" group-title="BARUUU",CNN Indonesia
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/5
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUxoazgqTWB16Rtsy3_53YVScSa3eKfOhZ-1Kuxaf7GCA.png" group-title="BARUUU",CNN International
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/151
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVwMeHXduxaen2hSCZjtWkN4IPJtm8Ex7mZYjUrp_1A6Q.png" group-title="BARUUU",Discovery Asia
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/164
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWIHge8_NdYNPxZWJuxfwXl0GbywE_n7slawTcI-Ray4w.png" group-title="BARUUU",Discovery Channel
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/165
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVUQahkReR4X7RqXatcgWKv.png" group-title="BARUUU",DMAX
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/166
-#EXTINF:-1 tvg-id="" tvg-name="Dream Works" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXYZvERejTa8MIRs4-Vz1LkhW83ilIqVVvSudAUISReoQ.png" group-title="BARUUU",Dream Works
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/177
-#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeULqnUbbEbh1F0IV7mzinc0.png" group-title="BARUUU",DW
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/152
-#EXTINF:-1 tvg-id="" tvg-name="EuroBARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVEKZ0XT4Yx801aL3U6lz02.png" group-title="BARUUU",EuroBARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/153
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVt-zenchK_Cu6_fufY_e6mGeZA4hbUn8jp_4fXJKYDbQ.png" group-title="BARUUU",Fashion TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/131
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight Secret" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVrLZdfRdsjR53qB4aukup0UxMe87uk3cWYUDdkyie_SdmWmDUGfW6_RBENANsm4Cg.png" group-title="BARUUU",Fashion TV Midnight Secret
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/132
-#EXTINF:-1 tvg-id="" tvg-name="First Warrior" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW5p4nowjYcfLeGEbna--0ALufwsgNS5li9LWTC6xKk9Q.png" group-title="BARUUU",First Warrior
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/78
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXs-H45Umd3B_23DfBNUkkkFa6r5CZitupM0dDUaflSbg.png" group-title="BARUUU",Food Network
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/133
-#EXTINF:-1 tvg-id="" tvg-name="Fox BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWCoGofSTVbePo-GCUhIdlM.png" group-title="BARUUU",Fox BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/154
-#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXcg-qsWZrwjvWgnCfyDdfM.png" group-title="BARUUU",France24
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/155
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXUyFWEecpxGriMEyiIT7DTOLRT9_HJ1rAjocSWAHf_cw.png" group-title="BARUUU",Galaxy Premium
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/51
-#EXTINF:-1 tvg-id="" tvg-name="Garuda TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX00XFjMIh1uOUoRTIFynki.png" group-title="BARUUU",Garuda TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/7
-#EXTINF:-1 tvg-id="" tvg-name="GMS" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVj17xRZ__B8ZWfn2PvzK_Y.png" group-title="Religi",GMS
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/188
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXKymrctowp7jeAysaiGBDH.png" group-title="BARUUU",GTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/9
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUglIYu6JcgHL_ObrwdftwO.png" group-title="BARUUU",HBO
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/52
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXr7_2W9qKoQbNjx8K7AYly404g3eCZo3VPz9K_9vZ1Yg.png" group-title="BARUUU",HBO Family
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWbShpMIQW6RgPISpsDQQT2.png" group-title="BARUUU",HBO Hits
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW1PFRu52SLSrXxvbaU4kFTXMtVtmOuEOkZup_U24BI7g.png" group-title="BARUUU",HBO Signature
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWoMO_tKnQuFUeSy5xAm-Ur.png" group-title="BARUUU",HGTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/134
-#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXUOFU7rKM2qITA8nJmrSZL.png" group-title="BARUUU",History
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/167
-#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXvDCg1aSKZhgUFuCvApaJc.png" group-title="BARUUU",HITS
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/56
-#EXTINF:-1 tvg-id="" tvg-name="HITS BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWt1YU2TlvkPj64XVWspOcAhwk1apVjD-B2tAf9KGBalQ.png" group-title="BARUUU",HITS BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/58
-#EXTINF:-1 tvg-id="" tvg-name="Horee!" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVQsKrQPEQYyC0852_E7JeR.png" group-title="BARUUU",Horee!
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/178
-#EXTINF:-1 tvg-id="" tvg-name="Hunan TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVl5uzBof41YdO6U1FL6gAG.png" group-title="BARUUU",Hunan TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/59
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWqIwcT3UuSE7f-LqqGtJuL.png" group-title="BARUUU",Indosiar
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
-#EXTINF:-1 tvg-id="" tvg-name="iBARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXdA3lFMU1LkMHdCCaMbldo.png" group-title="BARUUU",iBARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/12
-#EXTINF:-1 tvg-id="" tvg-name="Inspira TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWvmh9rzor86CeXQIt6F5-p0Q1FRXmq2RNp8-I1l8W_2A.png" group-title="BARUUU",Inspira TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/13
-#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVg7zq5i4UQ67SPRk0ANV02.png" group-title="BARUUU",JAK TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/14
-#EXTINF:-1 tvg-id="" tvg-name="Jawapos TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWxzXy8H5rQO96d3inU26VNY_lHny3j9nLOeEOQN_0onQ.png" group-title="BARUUU",Jawapos TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/15
-#EXTINF:-1 tvg-id="" tvg-name="Jiangsu TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWup0KhOUKrRVrPgdpLt_AiShJLs0x9u1U1odX6wsb1FQ.png" group-title="BARUUU",Jiangsu TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/61
-#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVnbEC48yTGJJnzzZ5Or0r9VR8sjQQs3pxDowq7luS20g.png" group-title="BARUUU",KBS World
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/135
-#EXTINF:-1 tvg-id="" tvg-name="KiX" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWE9tp_TEdYDP9Y7QFrj3f9.png" group-title="BARUUU",KiX
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/63
-#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXa7WQJjYiUdycpkBN02ITYosFfzUfvPqy2VNYF9WlcNw.png" group-title="BARUUU",Kompas TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/16
-#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV1vZsVf-f2cqCVh8ddizPJ.png" group-title="BARUUU",KTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/17
-#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWhaQ1q7oHoeXGkB6OJvjBg.png" group-title="BARUUU",Lifetime
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/136
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWIwn0avVuSnCNpEPQ22vcRzfkndrpPeEqAZwRjF5yBmQ.png" group-title="BARUUU",Love Nature
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/168
-#EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX3ZzaL9GdnwoRIfSap7ZpD.png" group-title="BARUUU",Magna Channel
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/18
-#EXTINF:-1 tvg-id="" tvg-name="Makkah TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWvfdG4F7Pm87La_cRWajeuMjNDdStpo0iVU7rel8wmjw.png" group-title="Religi",Makkah TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/189
-#EXTINF:-1 tvg-id="" tvg-name="MD TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVuJK-EcQJSIx-uMsJyOiTF.png" group-title="BARUUU",MD TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/19
-#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWSKkh-UgVPkELSIcqmIQZ3IxMj4-XnLijK1OIO-9W2dg.png" group-title="BARUUU",Mentari TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/20
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVWjOAkAnhD120ZBxQ1_iYm.png" group-title="BARUUU",Metro TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/21
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWsexQWLqyQyqMHMYtTmbyn.png" group-title="BARUUU",MNC TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/22
-#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW0k1lN1GyJ1QNR3Fx0coc4.png" group-title="BARUUU",Moji
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/23
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXC-odeo4TB-5ajAmdIQTck.png" group-title="Music",MTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/159
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVZtTcfpJZuVftTw9EA5aUbFQnczLJXXaCY_YUZZfP58Q.png" group-title="BARUUU",NHK World
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/156
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV4RIrYcosJ1ReMXmBf3f9J.png" group-title="BARUUU",Nick Jr
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/182
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWYHRiKVK1YnaDr_xOMaUetYUSn5XnXHBs6VqlQDR9THA.png" group-title="BARUUU",Nickelodeon
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/181
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWfhUX1sNd25AasG-NysQgG.png" group-title="BARUUU",RCTI
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
-#EXTINF:-1 tvg-id="" tvg-name="Reformed 21" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeURgqXtWBn4xjiVB9Y6k82o6JgEF6uJl2VzMvF36SKkFg.png" group-title="Religi",Reformed 21
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/190
-#EXTINF:-1 tvg-id="" tvg-name="Republika TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXbGEoTYfqGZ9EO7lgiDggA3R_OP0rNr5Y_XfDsD7tbHg.png" group-title="BARUUU",Republika TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27
-#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUnbDfVGukr9n36WEdHEIky3y5FfjJ59adhIe_lIM0lcg.png" group-title="BARUUU",Rock Action
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/138
-#EXTINF:-1 tvg-id="" tvg-name="Rock BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXrA8eJgAlVZLJyEkCIJtBIknVp3JdDtKy2my3m3k5ihA.png" group-title="BARUUU",Rock BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/139
-#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUUo0ja3jVbg-9HdRugsnXg.png" group-title="BARUUU",Rodja TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/28
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXwsElZxzPiYvU0iV008Kp4.png" group-title="BARUUU",RTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/29
-#EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWkK3eKLPqo-UwxIPe6YrGw9igfi3t-NxalZ2eWdaUL8Q.png" group-title="BARUUU",Russia Today
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/157
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXePR6dCqI1ieFDoBWsqOE2.png" group-title="BARUUU",SCTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/30
-#EXTINF:-1 tvg-id="" tvg-name="Smile TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVABxsTyveuSc7W_5IhEmx6.png" group-title="BARUUU",Smile TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/32
-#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUzNWBhTdFFqjIoP6CQkQnC.png" group-title="BARUUU",Sony One
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/141
-#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWrvyxsP03N2xH04DtQ7QU5sjESAIHfLCUCOVCWAT0mrg.png" group-title="BARUUU",SPO TV 1 ID
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/84
-#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUzbPHzjq8xFW39-7KXERi-b3fLMopmDsBqEj7GoFXOjQ.png" group-title="BARUUU",SPO TV 2 ID
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/85
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUuVHicAWBRp8Br2MS5-_GA3aYqA1Xq-DfTjb67e75NXg.png" group-title="BARUUU",Tennis Channel
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/86
-#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUITqxzleGe06t6D8N98ynN.png" group-title="BARUUU",Thrill
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/57
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWVvZrYqGm4wZMHxWhOaONC.png" group-title="BARUUU",TLC
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/142
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeU_siUIkdyypeIT-wBh4-Ve.png" group-title="BARUUU",Trans 7
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/33
-#EXTINF:-1 tvg-id="TRANS TV.id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXCgoQUDpgywY_WHu2HE8a9.png" group-title="BARUUU",Trans TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/34
-#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUzvahEV0YeoaGWQZanQlSXVezAVkBwYPW7kM5I978fcw.png" group-title="BARUUU",TRT World
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/158
-#EXTINF:-1 tvg-id="" tvg-name="TV One" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWsMqoUgffu2oUeWHwM00N2.png" group-title="BARUUU",TV One
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/36
-#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV0KGVjU4aUAsWAW_SaWXpj.png" group-title="BARUUU",TvN
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/143
-#EXTINF:-1 tvg-id="" tvg-name="TvN BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWmKojallnWNHJmtQYkVknIG1cDeZd-zH8Yto_9O8ABxA.png" group-title="BARUUU",TvN BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/67
-#EXTINF:-1 tvg-id="" tvg-name="TVRI BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV3gtW-dM04nTpiy4WKZAPN.png" group-title="BARUUU",TVRI BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/37
-#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUs5E2IwguFjJkS1_XfotLpeeM1H9laqFTFBivTGnd50w.png" group-title="BARUUU",TVRI Sport
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/87
-#EXTINF:-1 tvg-id="" tvg-name="UGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUBXpzLPYOXE2SldzG_3zJu.png" group-title="BARUUU",UGTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/39
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWlyPFzad6bJiDv9udvUNni.png" group-title="BARUUU",VTV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/40
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVVbHxxapnx-5joz0abJLFbZHnmIm8dnbdLE6Nzj3w6nA.png" group-title="BARUUU",Warner TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/68
-#EXTINF:-1 tvg-id="" tvg-name="ZeeBioskop" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXDDzOeCYoQE23ebs11NlOjeMLbpL1ekm0PaidYbDmhOQ.png" group-title="BARUUU",ZeeBioskop
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/69
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXxKqC2D6nYQGw8o5IpyMpH.png" group-title="BARUUU",Cinemax
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
-#EXTINF:-1 tvg-id="" tvg-name="Euro BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/-d02-7E9hXkuT3RF8hKTrwEvhXyQudxkStqSvfx_fBX--02wdfc1_sjGGfMNF_WHTRKZlwfi81yiqga_SGwPzA.png" group-title="BARUUU",Euro BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27005
-#EXTINF:-1 tvg-id="" tvg-name="Bein BARUUU ID 1+" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeV0wYGhPJWVvcv8yguXMRgzCKjO45P5IDAnId0pDXz2GQ.png" group-title="BARUUU",Bein BARUUU ID 1+
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/72
-#EXTINF:-1 tvg-id="" tvg-name="Bein BARUUU ID 2+" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUlYjkmypTMIE7FSKDcr7zS8vM1u1qjVxYjSc_wrlCSmQ.png" group-title="BARUUU",Bein BARUUU ID 2+
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/73
-#EXTINF:-1 tvg-id="" tvg-name="Bein BARUUU ID 3+" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVeBOJqg_o7RynYsyO5bzrKxBpVTGlc-MGjlcbNBY_f4Q.png" group-title="BARUUU",Bein BARUUU ID 3+
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/74
-#EXTINF:-1 tvg-id="" tvg-name="Bein BARUUU ID 4+" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXMRzFUa2l4AcL10JqImsD3R7BAuMh5ahVSKPJYUQBw_Q.png" group-title="BARUUU",Bein BARUUU ID 4+
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/75
-#EXTINF:-1 tvg-id="" tvg-name="Bein BARUUU ID 5+" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUCNUc4awichy9fa4wC5v88ePr6r0HuLzcJcyrJUgpX_g.png" group-title="BARUUU",Bein BARUUU ID 5+
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/76
-#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVDIzP9Gbui2R5SFilzCCa1.png" group-title="BARUUU",Galaxy
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/50
-#EXTINF:-1 tvg-id="" tvg-name="BARUUUtars 1" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUQES-9Zdpe4E67oEpD7Yhx5-G-C2aho-RJna4CzeVq8A.png" group-title="BARUUU",BARUUUtars 1
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/82
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeX1EcJm7c1XVvpSQKrQLmdj.png" group-title="Malaysia BARUUU",ASSP 4
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/123
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeWHhpJ4BrtH0AISyR-WcZtv.png" group-title="Malaysia BARUUU",ASSP 3
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/122
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeUP8r90qLnBfz0Z8NYLnmOY.png" group-title="Malaysia BARUUU",ASSP 2
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/121
-#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW7tFt2gO7Z08DA2C8zhfmU.png" group-title="Malaysia BARUUU",ASSP 1
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/120
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeW5L13c84JQ3v6u7NPrU9wuHSTPMkh8kkbQ8nO3F_SEAw.png" group-title="VIP BARUUU 2",True Sport 1
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/92
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeU3PTcdyDcEF3tDpTeB_A67MfZm5KyWJOinHcDgcyc-Pw.png" group-title="VIP BARUUU 2",True Sport 2
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/93
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXyhnGvS-yjPNJQxmhbHzIX3njjhKN0wakgCLJEcgbnYg.png" group-title="VIP BARUUU 2",True Sport 3
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/94
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/-d02-7E9hXkuT3RF8hKTrwEvhXyQudxkStqSvfx_fBXrWukkCK6XwjLpY0rM3VuOPOGM344x-7bGVwhx8G9PzQ.png" group-title="VIP BARUUU 2",Eurosport 2
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27875
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/-d02-7E9hXkuT3RF8hKTrwEvhXyQudxkStqSvfx_fBXAEP4hXkz2KFmZPLG9_EveeCexE_ncgcw2u3ALWQtJqA.png" group-title="VIP BARUUU 2",Eurosport 1
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27874
-#EXTINF:-1 tvg-id="" tvg-name="Siaran 1" tvg-logo="" group-title="VIP BARUUU 3",Siaran 1
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/34526
-#EXTINF:-1 tvg-id="" tvg-name="Sport 1 SK" tvg-logo="https://iptv.lancartech.co.id:443/images/-d02-7E9hXkuT3RF8hKTrwEvhXyQudxkStqSvfx_fBUKdk2N25w2sutI3nFPmhmy.png" group-title="VIP BARUUU 1",Sport 1 SK
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27876
-#EXTINF:-1 tvg-id="" tvg-name="Sky BARUUU Premier League" tvg-logo="https://iptv.lancartech.co.id:443/images/-d02-7E9hXkuT3RF8hKTrwEvhXyQudxkStqSvfx_fBWyA5ORMbKrhY1HfWS2lwQDS3MmyaBWNIT0-SxSsU-CZg.png" group-title="VIP BARUUU 3",Sky BARUUU Premier League
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/27844
-#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVHCUhRQqO9pOV-R_cRrDdQM0WFEjzFBf2rDW13__ZwmA.png" group-title="BARUUU",Soccer Channel
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/81
-#EXTINF:-1 tvg-id="" tvg-name="Fight BARUUU" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeVddC5hDLVpDuK1upmstQQbDejzDytRG0B_o88AdfXqHA.png" group-title="BARUUU",Fight BARUUU
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/77
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://iptv.lancartech.co.id:443/images/YKMemZJn8ZK3UAp45Xvyj6un5rWGZ2eBiL3OsDHYkeXJWdE0vbSVxwuoW_JEMv_Ud5bm0nW7MTbTl76IhDDy2A.png" group-title="BARUUU",Red Bull TV
-https://iptv.lancartech.co.id:443/Farhan@90/18062025/80
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name=" SUPERSPORT CRICKET " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="eMYe Sports", SUPERSPORT CRICKET 
+https://livebox.pro:443/live/565trail724/6655447788/157939.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name=" SUPERSPORTS PREMIER LEAGUE " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="eMYe Sports", SUPERSPORTS PREMIER LEAGUE 
+https://livebox.pro:443/live/565trail724/6655447788/157940.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name=" SUPERSPORTS LALIGA " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="eMYe Sports", SUPERSPORTS LALIGA 
+https://livebox.pro:443/live/565trail724/6655447788/157941.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name=" SUPERSPORTS FOOTBALL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="eMYe Sports", SUPERSPORTS FOOTBALL 
+https://livebox.pro:443/live/565trail724/6655447788/157942.ts
+#EXTINF:-1 tvg-id="" tvg-name=" SUPERSPORTS FOOTBALL PLUS " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="eMYe Sports", SUPERSPORTS FOOTBALL PLUS 
+https://livebox.pro:443/live/565trail724/6655447788/157943.ts
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name=" SUPERSPORTS PSL " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-psl-za.png" group-title="eMYe Sports", SUPERSPORTS PSL 
+https://livebox.pro:443/live/565trail724/6655447788/157944.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name=" SuperSport Rugby " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-rugby-za.png" group-title="eMYe Sports", SuperSport Rugby 
+https://livebox.pro:443/live/565trail724/6655447788/157945.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name=" SuperSport Golf " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-golf-za.png" group-title="eMYe Sports", SuperSport Golf 
+https://livebox.pro:443/live/565trail724/6655447788/157946.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name=" SUPER MOTORSPORT " tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png" group-title="eMYe Sports", SUPER MOTORSPORT 
+https://livebox.pro:443/live/565trail724/6655447788/157947.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name=" SuperSport Action " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png" group-title="eMYe Sports", SuperSport Action 
+https://livebox.pro:443/live/565trail724/6655447788/157948.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name=" SuperSport Tennis " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-tennis-za.png" group-title="eMYe Sports", SuperSport Tennis 
+https://livebox.pro:443/live/565trail724/6655447788/157949.ts
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SUPER SPORT LIYU " tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television-thumbnail.png" group-title="eMYe Sports",DSTV: SUPER SPORT LIYU 
+https://livebox.pro:443/live/565trail724/6655447788/157950.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name=" SUPERSPORTS VARIETY 1  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-1-za.png" group-title="eMYe Sports", SUPERSPORTS VARIETY 1  
+https://livebox.pro:443/live/565trail724/6655447788/157951.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name=" SUPERSPORTS VARIETY 2 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-2-za.png" group-title="eMYe Sports", SUPERSPORTS VARIETY 2 
+https://livebox.pro:443/live/565trail724/6655447788/157952.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name=" SUPERSPORTS VARIETY 3  " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-3-za.png" group-title="eMYe Sports", SUPERSPORTS VARIETY 3  
+https://livebox.pro:443/live/565trail724/6655447788/157953.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name=" SUPERSPORTS VARIETY 4 " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-variety-4-za.png" group-title="eMYe Sports", SUPERSPORTS VARIETY 4 
+https://livebox.pro:443/live/565trail724/6655447788/157954.ts
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name=" Supersport blitz " tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-blitz-za.png" group-title="eMYe Sports", Supersport blitz 
+https://livebox.pro:443/live/565trail724/6655447788/157955.ts
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="DSTV: Maximo 1 Champions " tvg-logo="https://supersport-cms-prod.azureedge.net/media/m3ldhapr/maximo-1.png" group-title="eMYe Sports",DSTV: Maximo 1 Champions 
+https://livebox.pro:443/live/565trail724/6655447788/157956.ts
+#EXTINF:-1 tvg-id="espn.za" tvg-name="DSTV: ESPN " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png?width=50" group-title="eMYe Sports",DSTV: ESPN 
+https://livebox.pro:443/live/565trail724/6655447788/157959.ts
+#EXTINF:-1 tvg-id="espn2.za" tvg-name="DSTV: ESPN 2 " tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png" group-title="eMYe Sports",DSTV: ESPN 2 
+https://livebox.pro:443/live/565trail724/6655447788/157960.ts
